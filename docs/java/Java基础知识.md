@@ -237,6 +237,10 @@ Java 程序在执行子类的构造方法之前，如果没有用 `super() `来�
 
 所以，实际上java和javax没有区别。这都是一个名字。
 
+## Where static variables and method are stored
+ - https://stackoverflow.com/questions/8387989/where-are-static-methods-and-static-variables-stored-in-java#:~:text=The%20static%20variables%20are%20stored,unlike%20the%20previous%20Permgen%20Space.
+ - 
+
 ## 17. 接口和抽象类的区别是什么？
 
 1. 接口的方法默认是 public，所有方法在接口中不能有实现(Java 8 开始接口方法可以有默认实现），而抽象类可以有非抽象的方法。
