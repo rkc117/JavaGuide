@@ -239,7 +239,8 @@ Java 程序在执行子类的构造方法之前，如果没有用 `super() `来�
 
 ## Where static variables and method are stored
  - https://stackoverflow.com/questions/8387989/where-are-static-methods-and-static-variables-stored-in-java#:~:text=The%20static%20variables%20are%20stored,unlike%20the%20previous%20Permgen%20Space.
- - 
+ - https://stackoverflow.com/questions/2431540/garbage-collection-behaviour-for-string-intern#:~:text=Manually%20interned%20strings%20will%20be,to%2060013%20since%20java%207u40.
+ - http://java-performance.info/string-intern-in-java-6-7-8/
 
 ## 17. 接口和抽象类的区别是什么？
 
